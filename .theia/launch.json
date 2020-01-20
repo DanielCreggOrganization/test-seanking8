@@ -1,0 +1,11 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - HelloWorld",
+         "request": "launch",
+         "mainClass": "ie.gmit.packagename.HelloWorld",
+         "projectName": "test-seanking8_a6c2c550"
+      }
+   ]
+}
