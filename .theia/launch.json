@@ -2,6 +2,20 @@
    "configurations": [
       {
          "type": "java",
+         "name": "CodeLens (Launch) - Loop",
+         "request": "launch",
+         "mainClass": "ie.gmit.scannerpack.Loop",
+         "projectName": "test-seanking8_a6c2c550"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - ScanFlow",
+         "request": "launch",
+         "mainClass": "ie.gmit.scannerpack.ScanFlow",
+         "projectName": "test-seanking8_a6c2c550"
+      },
+      {
+         "type": "java",
          "name": "CodeLens (Launch) - HelloWorld",
          "request": "launch",
          "mainClass": "ie.gmit.packagename.HelloWorld",
